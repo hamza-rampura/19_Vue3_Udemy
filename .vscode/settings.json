@@ -1,0 +1,34 @@
+{
+    "window.zoomLevel": 2,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "prettier.jsxBracketSameLine": true,
+    "prettier.tabWidth": 4,
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact"
+    ],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": true
+    },
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features",
+      "editor.formatOnSave": true
+    },
+    "[css]": {
+      "editor.defaultFormatter": "vscode.css-language-features",
+      "editor.formatOnSave": true
+    },
+    "explorer.confirmDelete": true,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "editor.wordWrap": "on",
+    "liquid.format": true,
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.htmlWhitespaceSensitivity": "strict",
+    "explorer.confirmDragAndDrop": false
+  }
+  
