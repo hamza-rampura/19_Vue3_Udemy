@@ -29,6 +29,9 @@
     "prettier.useTabs": true,
     "prettier.vueIndentScriptAndStyle": true,
     "prettier.htmlWhitespaceSensitivity": "strict",
-    "explorer.confirmDragAndDrop": false
+    "explorer.confirmDragAndDrop": false,
+    "eslint.workingDirectories": [
+      {"mode": "auto"}
+    ],
   }
   
